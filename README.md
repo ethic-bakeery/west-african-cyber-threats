@@ -33,4 +33,22 @@ This repository contains detailed analyses, Indicators of Compromise (IOCs), and
 | *More studies coming soon...* | | | |
 
 ## 🗂️ Repository Structure
+│ west-african-cyber-threats
+├── 📁 case-studies/ # Detailed analysis and reports
+├── 📁 iocs/ # Indicators of Compromise
+├── 📁 tools/ # Custom scripts and utilities
+├── 📁 data/ # Supporting data and references
+├── 📁 resources/ # Templates, guides, and references
+└── 📁 contrib/ # Community contributions
 
+## 🛠️ Tools & Methodologies
+
+- **OSINT Framework** (Maltego, SpiderFoot, Social-Searcher)
+- **Blockchain Analysis** (Etherscan, Blockchain Explorers)
+- **Digital Forensics** (VirusTotal, URLScan.io, Custom Tools)
+- **Network Analysis** (Gephi, Maltego)
+- **Linguistic Analysis** (Python NLP, LIWC)
+
+## ⚠️ Disclaimer
+
+This repository is for **educational and research purposes only**. The information provided is based on open-source intelligence and should be used responsibly in accordance with applicable laws and regulations.
