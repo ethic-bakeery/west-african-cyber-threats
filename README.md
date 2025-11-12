@@ -33,6 +33,7 @@ This repository contains detailed analyses, Indicators of Compromise (IOCs), and
 | *More studies coming soon...* | | | |
 
 ## 🗂️ Repository Structure
+```
 │ west-african-cyber-threats
 ├── 📁 case-studies/ # Detailed analysis and reports
 ├── 📁 iocs/ # Indicators of Compromise
@@ -40,7 +41,7 @@ This repository contains detailed analyses, Indicators of Compromise (IOCs), and
 ├── 📁 data/ # Supporting data and references
 ├── 📁 resources/ # Templates, guides, and references
 └── 📁 contrib/ # Community contributions
-
+```
 ## 🛠️ Tools & Methodologies
 
 - **OSINT Framework** (Maltego, SpiderFoot, Social-Searcher)
