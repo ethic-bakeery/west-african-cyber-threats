@@ -118,8 +118,7 @@ These are technical patterns and indicators that can help identify scam activiti
 
 **Quick Flowchart**
 
-![flow.PNG](./west-african-cyber-threats/images/flow.png)
-
+![flow](./images/flow.jpg)
 # How a West African-style scam usually unfolds
 
 Think of a scam like a staged play with many small scenes. The actors (scammers) prepare a script and props (I will provide you samples later), find an audience (you or someone like you), and then slowly guide the story toward the moment they ask for cash. Below I walk you through each scene: what the scammer is doing, what it looks like, the little red flags you can spot, and what *you* should do right away.
@@ -223,7 +222,7 @@ A message that starts with "Hi there, loved your photo" on Tinder; or "I saw you
 
 Here is an example of someone contacting me via Twitter(X):
 
-![x.jpg](./west-african-cyber-threats/images/x.jpg)
+![x.jpg](./images/x.jpg)
 
 ---
 
@@ -298,8 +297,7 @@ Another example can be: "Hey, I came out to buy something but my money is not co
 
 This is an example of a request:
 
-![lap.jpg](./west-african-cyber-threats/images/lap.jpg)
-
+![lap](./images/lap.jpg)
 ## 8. The Big Ask (The trap closes)
 
 **What's happening:**
@@ -386,9 +384,9 @@ After we made the deposit, after a month we tried to withdraw and it didn't work
 
 I didn't know what to do. I reached out to others online for help to get my money back. I contacted two people; one is [https://www.scamadviser.org](https://www.scamadviser.org/). I picked their email and contacted them to help me get my money back. After some time, they contacted me and said, "We are able to recover your money and now it has increased."
 As you can see in the image below:
-![Image](./west-african-cyber-threats/images/scam1.jpg)
+![Image](./images/scam1.jpg)
 It sounds suspicious, but I follow along, and the reply was that I should contact this number, as you can see below:
-![Image](./west-african-cyber-threats/images/scam2.jpg)
+![Image](./images/scam2.jpg)
 I contacted the number; we chatted, he was giving me instructions to go to my Crypto wallet, copy-paste the address, take screenshots and send him.
 
 Moral of the story...
@@ -397,14 +395,14 @@ Be careful of people you reach out to or those who pretend to offer services onl
 ## Scenario 2
 
 I signed up on a dating platform and began exploring fake profiles. I saw a profile that had an email address written on it. Then I picked the email address and sent a cool email, as you can see below.
-![Image](./west-african-cyber-threats/images/nabil.jpg)
+![nabil](./images/nabil.jpg)
 Then, I got a reply, which is too good to be true, as you can see in the screenshot below.
 It's 100% scam, and you should avoid trusting people on social media no matter what story they tell you.
 
 ## Scenario 3
 
 Someone contacted me on Twitter offering me a job, as you can see below.
-![Image](./west-african-cyber-threats/images/x.jpg)
+![Image](./images/x.jpg)
 No organization name, brand, and the amount is too high for such work, and he was busy referring me to others.
 
 ## Scenario 4
