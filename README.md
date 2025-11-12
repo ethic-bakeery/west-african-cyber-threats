@@ -1,4 +1,4 @@
-# west-african-cyber-threats
+# West African Cyber Threats
 ![CTI](https://img.shields.io/badge/Cyber-Threat%20Intel-blue)
 ![OSINT](https://img.shields.io/badge/OSINT-Research-orange)
 ![Case Studies](https://img.shields.io/badge/Case-Studies-green)
