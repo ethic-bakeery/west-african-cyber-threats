@@ -383,10 +383,13 @@ More than 3 years ago, I wasn't aware about scamming. I was on LinkedIn when a l
 After we made the deposit, after a month we tried to withdraw and it didn't work. I contacted the woman and she said I should make a 2x deposit, then I will be able to withdraw. At that moment, I realized I fell for a Ponzi scheme scam.
 
 I didn't know what to do. I reached out to others online for help to get my money back. I contacted two people; one is [https://www.scamadviser.org](https://www.scamadviser.org/). I picked their email and contacted them to help me get my money back. After some time, they contacted me and said, "We are able to recover your money and now it has increased."
+
 As you can see in the image below:
+
 ![Image](./images/scam1.jpg)
-It sounds suspicious, but I follow along, and the reply was that I should contact this number, as you can see below:
 ![Image](./images/scam2.jpg)
+-
+It sounds suspicious, but I follow along, and the reply was that I should contact this number, as you can see below:
 I contacted the number; we chatted, he was giving me instructions to go to my Crypto wallet, copy-paste the address, take screenshots and send him.
 
 Moral of the story...
@@ -395,14 +398,18 @@ Be careful of people you reach out to or those who pretend to offer services onl
 ## Scenario 2
 
 I signed up on a dating platform and began exploring fake profiles. I saw a profile that had an email address written on it. Then I picked the email address and sent a cool email, as you can see below.
+
 ![nabil](./images/nabil.jpg)
+
 Then, I got a reply, which is too good to be true, as you can see in the screenshot below.
 It's 100% scam, and you should avoid trusting people on social media no matter what story they tell you.
 
 ## Scenario 3
 
 Someone contacted me on Twitter offering me a job, as you can see below.
+
 ![Image](./images/x.jpg)
+
 No organization name, brand, and the amount is too high for such work, and he was busy referring me to others.
 
 ## Scenario 4
