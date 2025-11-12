@@ -118,7 +118,7 @@ These are technical patterns and indicators that can help identify scam activiti
 
 **Quick Flowchart**
 
-![flow.PNG](./west-african-cyber-threats/images/flow.png)
+![flow.PNG](./west-african-cyber-threats/images/flow.jpg)
 
 # How a West African-style scam usually unfolds
 
