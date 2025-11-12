@@ -367,9 +367,6 @@ We are currently building a threat intelligence platform where you can upload th
 
 Also, on the platform, you will get to know their TTPs and how to detect a variety of scams around the world.
 
-## Final thought: trust your gut and use small tests
-
-Real people accept small, sensible tests (a short video or a phone call) and don't push for secret money channels. If something feels off, that feeling is worth acting on: slow down, verify, ask for public references, and never send money to a stranger. If you ever suspect a scam, save the messages and report them; your report may stop others from falling for the same script.
 
 ### Real World Scenarios of Different Scam Activities with Examples
 
@@ -422,9 +419,11 @@ It asks for my personal info and sometimes required fees. I really don't know ho
 I met a guy on a platform that claims to have real buyers of Pi crypto; it listed their profiles as legitimate ones, so I picked one and DM'd. He was asking me to send him the coins first before payment.
 I said I'm not gonna do that; he was busy sending me proofs of his transaction with others, but it's all fake. As I reverse the image, I see where it came from.
 
-Of course. Here is a short header you can place at the end of your current case study to tease the next one, including a title and a concise summary.
-
 ---
+
+## Final thought: trust your gut and use small tests
+
+Real people accept small, sensible tests (a short video or a phone call) and don't push for secret money channels. If something feels off, that feeling is worth acting on: slow down, verify, ask for public references, and never send money to a stranger. If you ever suspect a scam, save the messages and report them; your report may stop others from falling for the same script.
 
 ### **In the Next Case Study**
 
