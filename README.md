@@ -30,7 +30,7 @@ This repository contains detailed analyses, Indicators of Compromise (IOCs), and
 |------------|-------------|---------|-------------|
 | **[West African Scam Networks](case-studies/01-west-african-scam-networks.md)** | Evolution from 419 scams to complex social engineering ecosystems | ✅ Complete | 2025 |
 | **[The Scam Economy](case-studies/02-the-scam-economy.md)** | Mapping the digital underground supporting cybercrime operations | 🔄 In Progress | - |
-| **[Threat Actor Profiling: OSINT Techniques for Scammer Attribution](case-studies/03-Threat-Actor-Profiling:-OSINT-techniques-for-scammer-attribution.md)** | Profiling Online Scammers Using OSINT | ✅ Complete | 2025 |
+| **[Threat Actor Profiling: OSINT Techniques for Scammer Attribution](case-studies/03-Threat-Actor-Profiling:-OSINT-techniques-for-scammer-attribution.md)** | Profiling Online Scammers Using OSINT | 🔄 In Progress | 2025 |
 | *More studies coming soon...* | | | |
 
 ## 🗂️ Repository Structure
